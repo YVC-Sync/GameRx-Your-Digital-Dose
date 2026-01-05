@@ -108,6 +108,7 @@ GameRx demonstrates how data science can be applied ethically and intentionally:
 
 ## 🗂 Repository Structure
 
+```bash
 GameRx-Your-Digital-Dose/
 │
 ├── 01 Project Context/ # Concept, research, methodology
@@ -119,9 +120,8 @@ GameRx-Your-Digital-Dose/
 │
 ├── LICENSE
 └── README.md
-
+```
 ---
 
 ## 🔗 View the Full Case Study
-
-🌐 https://www.yariselvelacanto.com/data
+[🌐 www.yariselvelacanto.com/data](http://www.yariselvelacanto.com/data)
