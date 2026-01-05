@@ -1,7 +1,7 @@
 # GameRx: Your Digital Dose  
 **Relief Through Play**
 
-<img src="Gme.png" alt="GameRx Logo" width="130">
+<img src="Gmeb.png" alt="GameRx Logo" width="130">
 
 GameRx explores whether video games can be recommended like mood medicine, supporting emotional relief. 
 Using player review data, emotional theory, and clustering, this project builds a hybrid recommendation framework that maps games to relief pathways such as Comfort, Catharsis, Distraction, and Validation.
