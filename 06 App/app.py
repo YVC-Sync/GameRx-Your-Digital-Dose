@@ -5,6 +5,7 @@
 import pandas as pd
 import streamlit as st
 from pathlib import Path
+st.write("✅ Running GitHub app.py")
 
 # ------------------------------------------------
 # 1. Page Config
@@ -18,7 +19,7 @@ st.set_page_config(
 # ------------------------------------------------
 # 2. File Paths & Column Names (LOCKED)
 # ------------------------------------------------
-DATA_PATH = Path("../02 Data/cleaned/app_data/17_games_hybrid_app_ready.csv")
+DATA_PATH = Path("..") / "02 Data" / "cleaned" / "app_data" / "17_games_hybrid_app_ready.csv"
 
 GAME_NAME_COL = "Name"
 RELIEF_COL = "Relief Pathway"
