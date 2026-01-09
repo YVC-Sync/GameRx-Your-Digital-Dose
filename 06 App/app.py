@@ -28,6 +28,8 @@ FIT_COL = "Therapeutic Fit %"
 BLOCK_COL = "is_blocked"
 COLOR_COL = "fit_color"
 
+SHOW_CONFIDENCE = False
+
 # ------------------------------------------------
 # 3. Load Data (SAFE)
 # ------------------------------------------------
@@ -108,12 +110,16 @@ def confidence_label(color: str) -> str:
     return "🔴 Gentle option"
 
 def build_recommendation_table(df: pd.DataFrame) -> pd.DataFrame:
-    return pd.DataFrame({
+    table = {
         "Name": df[GAME_NAME_COL],
         "Relief Pathway": df[RELIEF_COL].str.title(),
         "Therapeutic Fit %": df[FIT_COL].round(1),
-        "Confidence": df[COLOR_COL].apply(confidence_label),
-    })
+    }
+
+    if SHOW_CONFIDENCE:
+        table["Confidence"] = df[COLOR_COL].apply(confidence_label)
+
+    return pd.DataFrame(table)
 
 # ------------------------------------------------
 # 6.5 Relief Pathway Explanations (UI ONLY)
