@@ -125,3 +125,9 @@ GameRx-Your-Digital-Dose/
 
 ## 🔗 View the Full Case Study
 [🌐 www.yariselvelacanto.com/data](http://www.yariselvelacanto.com/data)
+
+## Copyright & Use
+
+© 2026 Yarisel Velacanto. All rights reserved.
+
+This project is shared publicly for portfolio review only. Please do not copy, reuse, modify, redistribute, or commercially use any part of this work without written permission.
