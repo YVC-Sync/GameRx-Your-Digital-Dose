@@ -124,7 +124,7 @@ GameRx-Your-Digital-Dose/
 ---
 
 ## 🔗 View the Full Case Study
-[🌐 www.yariselvelacanto.com/data](http://www.yariselvelacanto.com/data)
+[🌐 www.yariselvelacanto.com/data](http://velacanto.com/data)
 
 ## Copyright & Use
 
