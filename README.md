@@ -124,7 +124,7 @@ GameRx-Your-Digital-Dose/
 ---
 
 ## 🔗 View the Full Case Study
-[🌐 velacanto.com/gamerx-your-digital-dose](http://[velacanto.com/data](https://velacanto.com/gamerx-your-digital-dose))
+[🌐 View the GameRx Full Case Study](https://velacanto.com/gamerx-your-digital-dose)
 
 ## Copyright & Use
 
